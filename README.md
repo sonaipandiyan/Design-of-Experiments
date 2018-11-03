@@ -1,2 +1,2 @@
 # Projects-during-masters
-All the projects done during the master study
+Some of the projects done during the master study.
