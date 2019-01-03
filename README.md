@@ -1,2 +1,2 @@
 # Projects-during-masters
-Some of the projects done during the master study.
+The project shows a Design of Experiments done to find the optimal parameters for draining the fluid from a given water bottle.
